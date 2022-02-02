@@ -1,0 +1,98 @@
+<div class=""><div class="aHl"></div><div id=":1ah" tabindex="-1"></div><div id=":1bo" class="ii gt" jslog="20277; u014N:xr6bB; 4:W251bGwsbnVsbCxbXV0."><div id=":1bn" class="a3s aiL "><u></u>
+
+    
+        
+        
+        
+        
+    
+    <div style="font-family:'Open Sans',sans-serif;margin:0;padding:0">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+                <td style="padding:10px 0 30px 0">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="590" style="border:1px solid #ffffff;border-collapse:collapse">
+                        <tbody><tr>
+                            <td align="center" bgcolor="#FFFFFF" style="color:#222222;font-size:18px;padding:50px 0 0 0;font-weight:bold;font-family:'Open Sans',sans-serif">
+                                <img alt="URI Online Judge" style="display:block">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td bgcolor="#FFFFFF" style="padding:40px 30px 0px 30px">
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody><tr>
+                                        <td style="color:#222222;font-family:'Open Sans',sans-serif;font-size:14px">
+                                            <b>Olá!</b>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding:20px 0 0 0;color:#222222;font-family:'Open Sans',sans-serif;font-size:12px;line-height:20px">
+                                            <p>
+                                                Relembre suas conquistas no <strong style="color:#31168c">beecrowd</strong> (antigo URI Online Judge), em <strong style="color:#31168c">2021</strong>! Reveja quantos problemas você resolveu, quantas linguagens praticou e quantas submissões enviou.
+                                            </p>
+                                            <p>
+                                                Faça o download do seu progresso customizado, curta, compartilhe e marque nosso Instagram <strong><a href="https://www.instagram.com/beecrowd_real" style="color:#31168c;text-decoration:none" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.instagram.com/beecrowd_real&amp;source=gmail&amp;ust=1642302175553000&amp;usg=AOvVaw1Q-tXakBzw5Eqx4gW0s2qh">@beecrowd_real</a></strong> para comemorarmos junto as suas conquistas!
+                                            </p>
+                                            <p>
+                                                Obrigado por compartilhar 2021 com a gente e se prepare para o próximo nível!
+                                            </p>
+                                            <p style="text-align:center;margin:40px 0 40px 0">
+                                                <strong><a href="https://uoj.app/wrapped" style="background:#31168c;border-radius:3px;color:#ffffff;padding:10px 30px 10px 30px;text-decoration:none" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://uoj.app/wrapped&amp;source=gmail&amp;ust=1642302175553000&amp;usg=AOvVaw2pS3uYjdGPBYy-U0nieuTz">DOWNLOAD!</a></strong>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td bgcolor="#FFFFFF" style="padding:30px 30px 30px 30px;border:#ffffff solid 1px">
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody><tr>
+                                        <td>
+                                            <p style="text-align:center">
+                                                <a href="https://www.linkedin.com/company/beecrowd" style="color:#ffffff;padding:0px 5px 0px 5px" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.linkedin.com/company/beecrowd&amp;source=gmail&amp;ust=1642302175553000&amp;usg=AOvVaw0nJYHoslb8zhtb8CWmrxmi">
+                                                    <img alt="LinkedIn" width="32" height="32" border="0">
+                                                </a>
+                                                <a href="https://www.instagram.com/beecrowd_real" style="color:#ffffff;padding:0px 5px 0px 5px" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.instagram.com/beecrowd_real&amp;source=gmail&amp;ust=1642302175553000&amp;usg=AOvVaw1Q-tXakBzw5Eqx4gW0s2qh">
+                                                    <img alt="Instagram" width="32" height="32" border="0">
+                                                </a>
+                                                <a href="https://www.facebook.com/urionlinejudge" style="color:#ffffff;padding:0px 5px 0px 5px" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.facebook.com/urionlinejudge&amp;source=gmail&amp;ust=1642302175553000&amp;usg=AOvVaw0FWhJBaXP55y55gXn6srRH">
+                                                    <img alt="Facebook" width="32" height="32" border="0">
+                                                </a>
+                                                <a href="https://www.youtube.com/c/beecrowd" style="color:#ffffff;padding:0px 5px 0px 5px" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/c/beecrowd&amp;source=gmail&amp;ust=1642302175553000&amp;usg=AOvVaw0UaAfn9t1Xbx3Yn9OO90Bs">
+                                                    <img alt="YouTube" width="32" height="32" border="0">
+                                                </a> 
+                                                <a href="https://twitter.com/beecrowd_real" style="color:#ffffff;padding:0px 5px 0px 5px" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://twitter.com/beecrowd_real&amp;source=gmail&amp;ust=1642302175553000&amp;usg=AOvVaw1fHBDTMA3bR9ISRTHTkOiH">
+                                                    <img alt="Facebook" width="32" height="32" border="0">
+                                                </a>
+                                                <a href="https://www.twitch.tv/beecrowd" style="color:#ffffff;padding:0px 5px 0px 5px" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.twitch.tv/beecrowd&amp;source=gmail&amp;ust=1642302175553000&amp;usg=AOvVaw1lOG9N3Vxq7g_tPgmCOE6W">
+                                                    <img alt="Facebook" width="32" height="32" border="0">
+                                                </a>
+                                                <img>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="color:#777777;font-family:'Open Sans',sans-serif;font-size:12px;text-align:center">
+                                            <p>
+                                                2021 © beecrowd<br>
+                                                <b><a href="http://www.beecrowd.com.br" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://www.beecrowd.com.br&amp;source=gmail&amp;ust=1642302175553000&amp;usg=AOvVaw0Hr26nNpoB0kgckQyRmZN0">www.beecrowd.com.br</a></b>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p style="color:#777777;font-family:'Open Sans',sans-serif;font-size:10px;text-align:center">
+                                                Você está recebendo este email como um usuário registrado do beecrowd. Se você não deseja receber emails do beecrowd, você pode gerenciar suas preferências de email <a href="https://www.beecrowd.com.br/judge/pt/account" style="color:#222222" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.beecrowd.com.br/judge/pt/account&amp;source=gmail&amp;ust=1642302175553000&amp;usg=AOvVaw0OjaXd-ic3zFUyleCvsMrG">aqui</a>. Se você precisar de ajuda, entre em contato conosco pelo <a href="mailto:support@beecrowd.com.br" style="color:#222222" target="_blank">support@beecrowd.com.br</a>.
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+        </tbody></table><div class="yj6qo"></div><div class="adL">
+    </div></div><div class="adL">
+
+</div></div></div><div id=":1ak" class="ii gt" style="display:none"><div id=":1al" class="a3s aiL "></div></div><div class="hi"></div></div>
